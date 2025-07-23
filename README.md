@@ -2,6 +2,9 @@
 
 A lightweight Minecraft resource pack that tweaks dye textures and backports new dye textures to older versions of the game.
 
+> [!TIP]
+> Looking for some music disc texture tweaks? Check out [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks)!
+
 ## Downloads
 
 [![](https://img.shields.io/modrinth/dt/g4Q5Ee62?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-dye-tweaks)
