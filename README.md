@@ -13,7 +13,7 @@ A lightweight Minecraft resource pack that tweaks dye textures and backports new
 * Removes the palette strip from the bottom of those textures
 * Backports the new textures to Java Edition 1.20.2 - 1.21.8
 
-![image]( SHOWCASE GIF HERE )
+![image](https://i.imgur.com/8gquQ5R.gif)
 
 ## Versions
 
