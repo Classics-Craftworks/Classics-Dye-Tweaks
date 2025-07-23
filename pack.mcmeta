@@ -2,6 +2,6 @@
     "pack": {
         "pack_format": 16,
         "supported_formats": {"min_inclusive": 16, "max_inclusive": 64},
-        "description": "§aClassic's Dye Tweaks\n§7v0.1.0 §8/ §f1.20.2-1.21.8"
+        "description": "§aClassic's Dye Tweaks\n§7v0.1.1 §8/ §f1.20.2-1.21.8"
 	}
 }
