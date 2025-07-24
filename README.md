@@ -14,7 +14,7 @@ A lightweight Minecraft resource pack that tweaks dye textures and backports new
 
 * Adds new dye textures based on the new textures introduced in Bedrock Beta 1.21.110.20
 * Removes the palette strip from the bottom of those textures
-* Backports the new textures to Java Edition 1.20.2 - 1.21.8
+* Backports the new textures to Java Edition 1.20.2 - 1.21.8, with older versions planned for the future
 
 ![image](https://i.imgur.com/8gquQ5R.gif)
 
