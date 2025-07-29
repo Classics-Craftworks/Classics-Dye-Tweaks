@@ -1,6 +1,6 @@
 ![image](https://i.imgur.com/6vQsrjf.png)
 
-A lightweight Minecraft resource pack that tweaks dye textures and backports new dye textures to older versions of the game.
+A lightweight Minecraft resource pack that tweaks the new dye textures and backports them to older versions of the game.
 
 > [!TIP]
 > Looking for some music disc texture tweaks? Check out [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks)!
@@ -14,8 +14,10 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 ## Overview
 
-* Adds new dye textures based on the new textures introduced in Bedrock Beta 1.21.110.20
-* Removes the palette strip from the bottom of those textures
+* Tweaks the new dye textures introduced in Java Snapshot 25w31a by:
+    * Removing the palette strip from the bottom of all 16 textures
+    * Raising the Blue Dye texture by 1 pixel
+    * Adding 2 missing pixels to the bottom left of the Red Dye texture
 * Backports the new textures to Java Edition 1.20.2 - 1.21.8, with older versions planned for the future
 
 ![image](https://i.imgur.com/8gquQ5R.gif)
