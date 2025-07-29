@@ -20,7 +20,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
     * Adding 2 missing pixels to the bottom left of the Red Dye texture
 * Backports the new textures to Java Edition 1.20.2 - 1.21.8, with older versions planned for the future
 
-![image](https://i.imgur.com/8gquQ5R.gif)
+![image](https://i.imgur.com/m9h3v6t.gif)
 
 ## Versions
 
