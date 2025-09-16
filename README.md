@@ -14,7 +14,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 ## Overview
 
-* Tweaks the new dye textures introduced in Java Snapshot 25w31a by:
+* Tweaks the new dye textures introduced in Java 1.21.9 by:
     * Removing the palette strip from the bottom of all 16 textures
     * Raising the Blue Dye texture by 1 pixel
     * Adding 2 missing pixels to the bottom left of the Red Dye texture
@@ -26,7 +26,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w36a - 25w37a | [v1.0.0-pre3](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/releases/tag/v1.0.0-pre3) |
+| 25w36a - 1.21.9-pre1 | [v1.0.0-pre3](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/releases/tag/v1.0.0-pre3) |
 | 1.20.2 - 1.21.8 | [v0.2.0](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/releases/tag/v0.2.0) |
 | 1.20.1 and older | Coming after v1.0.0 |
 
