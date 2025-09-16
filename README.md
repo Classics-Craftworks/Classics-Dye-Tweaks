@@ -10,7 +10,6 @@ A lightweight Minecraft resource pack that tweaks the new dye textures and backp
 Classic's Dye Tweaks is only available on the platforms listed below. Please be aware that downloading it from any other source could result in an altered or potentially malicious version of the resource pack.
 
 [![](https://img.shields.io/modrinth/dt/g4Q5Ee62?label=Modrinth&style=for-the-badge&color=00AF5C&logo=modrinth)](https://modrinth.com/resourcepack/classics-dye-tweaks)
-[![](https://img.shields.io/github/downloads/Classics-Craftworks/Classics-Dye-Tweaks/total?label=GitHub&style=for-the-badge&color=181717&logo=github)](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/releases)
 
 ## Overview
 
@@ -26,8 +25,8 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w36a - 1.21.9-pre1 | [v1.0.0-pre3](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/releases/tag/v1.0.0-pre3) |
-| 1.20.2 - 1.21.8 | [v0.2.0](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/releases/tag/v0.2.0) |
+| 25w36a - 1.21.9-pre1 | [v1.0.0-pre3](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0-pre3) |
+| 1.20.2 - 1.21.8 | [v0.2.0](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v0.2.0) |
 | 1.20.1 and older | Coming after v1.0.0 |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-dye-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/wiki/Versions).
