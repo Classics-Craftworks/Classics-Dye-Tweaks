@@ -25,7 +25,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w37a - 1.21.9-pre2 | [v1.0.0-pre4](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0-pre4) |
+| 25w37a - 1.21.9-pre3 | [v1.0.0-pre4](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0-pre4) |
 | 1.20.2 - 1.21.8 | [v0.2.0](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v0.2.0) |
 | 1.20.1 and older | Coming after v1.0.0 |
 
