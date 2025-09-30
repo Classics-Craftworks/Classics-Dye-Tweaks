@@ -1,4 +1,4 @@
-![image](https://i.imgur.com/6vQsrjf.png)
+![image](https://i.postimg.cc/zXVkmTPS/Banner.png)
 
 A lightweight Minecraft resource pack that tweaks the new dye textures and backports them to older versions of the game.
 
@@ -19,7 +19,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
     * Adding 2 missing pixels to the bottom left of the Red Dye texture
 * Backports the new textures to Java Edition versions 1.13 – 1.21.8
 
-![image](https://i.imgur.com/m9h3v6t.gif)
+![image](https://i.postimg.cc/Nf5xhRPd/Gif.gif)
 
 ## Versions
 
