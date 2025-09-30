@@ -1,6 +1,6 @@
 ![image](https://i.postimg.cc/zXVkmTPS/Banner.png)
 
-A lightweight Minecraft resource pack that tweaks the new dye textures and backports them to older versions of the game.
+A lightweight Minecraft resource pack that tweaks 1.21.9's new dye textures and backports them to older versions of the game.
 
 > [!TIP]
 > Looking for some music disc texture tweaks? Check out [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks)!
@@ -25,7 +25,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 | Minecraft Version | Pack Version |
 | :--: | :--: |
-| 25w37a - 1.21.9-rc1 | [v1.0.0-pre4](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0-pre4) |
+| 1.21.9 | [v1.0.0](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0) |
 | 1.20.2 - 1.21.8 | [v1.0.0+mc1.20.2](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.20.2) |
 | 1.20 - 1.20.1 | [v1.0.0+mc1.20](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.20) |
 | 1.19.4 | [v1.0.0+mc1.19.4](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.19.4) |

@@ -18,7 +18,7 @@ body:
       label: Version
       description: Which version of Classic's Dye Tweaks are you using? If it's not listed, please consider updating!
       options:
-        - v1.0.0-pre4
+        - v1.0.0
         - v1.0.0+mc1.20.2
     validations:
       required: true
@@ -27,7 +27,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "1.21.8" or "25w31a", for example, will do.
+      placeholder: Simply "1.21.9" or "25w31a", for example, will do.
     validations:
       required: true
   - type: textarea
