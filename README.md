@@ -3,7 +3,9 @@
 A lightweight Minecraft resource pack that tweaks 1.21.9's new dye textures and backports them to older versions of the game.
 
 > [!TIP]
-> Looking for some music disc texture tweaks? Check out [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks)!
+> Looking for more small tweaks?
+> Try [Classic's Disc Tweaks](https://modrinth.com/resourcepack/classics-disc-tweaks) for subtly widened music discs,
+> or check out [Classic's Lantern Tweaks](https://modrinth.com/resourcepack/classics-lantern-tweaks) for improved lantern textures!
 
 ## Downloads
 
