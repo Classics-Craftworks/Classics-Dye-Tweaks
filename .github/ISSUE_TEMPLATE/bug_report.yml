@@ -27,7 +27,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "1.21.9" or "25w31a", for example, will do.
+      placeholder: Simply "1.21.10" or "25w31a", for example, will do.
     validations:
       required: true
   - type: textarea
