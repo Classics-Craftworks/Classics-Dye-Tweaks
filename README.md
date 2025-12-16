@@ -29,9 +29,6 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 | :--: | :--: |
 | 1.21.9 - 1.21.11 | [v1.1.0](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.1.0) |
 | 1.20.2 - 1.21.8 | [v1.0.0+mc1.20.2](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.20.2) |
-| 1.20 - 1.20.1 | [v1.0.0+mc1.20](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.20) |
-| 1.19.4 | [v1.0.0+mc1.19.4](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.19.4) |
-| 1.19.3 | [v1.0.0+mc1.19.3](https://modrinth.com/resourcepack/classics-dye-tweaks/version/v1.0.0+mc1.19.3) |
 
 Older versions and snapshots can be found [on Modrinth](https://modrinth.com/datapack/classics-dye-tweaks/versions) or [here on GitHub](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/wiki/Versions).
 
