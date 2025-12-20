@@ -1,6 +1,6 @@
 ![image](https://i.postimg.cc/zXVkmTPS/Banner.png)
 
-A lightweight Minecraft resource pack that tweaks 1.21.9's new dye textures and backports them to older versions of the game.
+A lightweight Minecraft resource pack that tweaks 1.21.9's dye textures and backports them to older versions of the game.
 
 > [!TIP]
 > Looking for more small tweaks?
@@ -15,7 +15,7 @@ Classic's Dye Tweaks is only available on the platforms listed below. Please be 
 
 ## Overview
 
-* Tweaks the new dye textures introduced in Java 1.21.9 by:
+* Tweaks the dye textures introduced in Minecraft Java 1.21.9 by:
     * Removing the palette strip from the bottom of all 16 textures
     * Raising the Blue Dye texture by 1 pixel
     * Adding 2 missing pixels to the bottom left of the Red Dye texture
