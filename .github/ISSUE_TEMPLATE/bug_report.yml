@@ -28,7 +28,7 @@ body:
     attributes:
       label: Minecraft Version
       description: Which version of Minecraft are you using?
-      placeholder: Simply "26.1" or "26.1 Snapshot 4", for example, will do.
+      placeholder: Simply "26.1.1" or "26.1 Snapshot 4", for example, will do.
     validations:
       required: true
   - type: textarea
