@@ -1,4 +1,4 @@
-![image](https://i.postimg.cc/zXVkmTPS/Banner.png)
+![image](https://i.postimg.cc/j5bW4qvb/Dye_T_Final_Header.png)
 
 A lightweight Minecraft resource pack that tweaks 1.21.9's dye textures and backports them to older versions of the game.
 
