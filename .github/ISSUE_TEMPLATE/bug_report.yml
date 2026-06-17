@@ -4,6 +4,16 @@ type: Bug
 assignees:
   - Classsic36
 body:
+  - type: checkboxes
+    id: pre-checks
+    attributes:
+      label: Before submitting
+      description: Please confirm the following before submitting your bug report.
+      options:
+        - label: I have checked [open issues](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/issues) and the bug has not already been reported.
+          required: true
+        - label: I have checked [closed issues](https://github.com/Classics-Craftworks/Classics-Dye-Tweaks/issues?q=is%3Aissue%20state%3Aclosed) and the bug has not already been fixed.
+          required: true
   - type: textarea
     id: what-happened
     attributes:
